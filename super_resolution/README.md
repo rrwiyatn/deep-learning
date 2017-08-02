@@ -6,5 +6,5 @@ Note: Dataset used is 10000 images from ImageNet dataset and was not uploaded du
 Here is comparison between upscaling using GIMP cubic transformation and super resolution
 
 <p align="center">
-  <img src="https://github.com/rrwiyatn/super_resolution/blob/master/results/comparison.png">
+  <img src="https://github.com/rrwiyatn/deeplearning-ai/blob/master/super_resolution/results/comparison.png">
 </p>
