@@ -1,5 +1,5 @@
 # deeplearning-ai
-Repo for various AI/deep learning projects
+Repo for various AI/deep learning projects that I've done
 
 Projects include:
 1. Image Segmentation, The One Hundred Layers Tiramisu - [LINK](https://github.com/rrwiyatn/deeplearning-ai/tree/master/tiramisu_segmentation)
