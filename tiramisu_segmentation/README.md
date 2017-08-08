@@ -4,8 +4,9 @@ Image Segmentation using CNN based on paper titled "The One Hundred Layers Tiram
 Note: Dataset used is CamVid dataset and was not uploaded due to the size. I splitted the dataset into training(450 images), validation(125 images), and test(76 images) sets. Things were slightly changed compared to the paper:
 1. Average pooling instead of max pooling
 2. Upsampling rather than deconvolution
-3. No data augmentation
-4. Images were resized to 256 x 384
+3. Adam instead of RMSprop
+4. No data augmentation
+5. Images were resized to 256 x 384
 
 I got 92.79% accuracy on the test set. Here is the results
 
