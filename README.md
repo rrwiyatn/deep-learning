@@ -2,7 +2,7 @@
 Repo for various AI/deep learning projects that I've done
 
 Projects include:
-1. Wasserstein GAN - Training in progress, will be pushed to master once done [LINK](https://github.com/rrwiyatn/deeplearning-ai/tree/master/wasserstein_gan)
+1. Wasserstein GAN - [LINK](https://github.com/rrwiyatn/deeplearning-ai/tree/master/wasserstein_gan)
 2. Image Segmentation, The One Hundred Layers Tiramisu - [LINK](https://github.com/rrwiyatn/deeplearning-ai/tree/master/tiramisu_segmentation)
 3. Super Resolution - [LINK](https://github.com/rrwiyatn/deeplearning-ai/tree/master/super_resolution)
 4. Style Transfer - [LINK](https://github.com/rrwiyatn/deeplearning-ai/tree/master/style_transfer)
