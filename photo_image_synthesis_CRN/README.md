@@ -3,14 +3,8 @@ Photographic image synthesis from segmentation map based on paper titled "Photog
 
 Note: Dataset used is CamVid dataset and was not uploaded due to the size. I splitted the dataset into training(450 images), validation(125 images), and test(76 images) sets. I  did not synthesize the diverse collection as explained in section 3.4 in the paper and I also only used 7 refinement modules rather than 9.
 
-These are some generated images (from the test set) when using tanh as the activation in the last output layer and without batchnorm:
+These are some generated images (from the test set) when using tanh as the activation in the last output layer and without batchnorm, compared to a similar model but without bactchnorm and tanh activation:
 
 <p align="center">
-  <img src="https://github.com/rrwiyatn/deeplearning-ai/blob/master/photo_image_synthesis_CRN/results/no_batchnorm.png">
-</p>
-
-These are some generated images (from the test set) when using batchnorm and no activations in the last output layer:
-
-<p align="center">
-  <img src="https://github.com/rrwiyatn/deeplearning-ai/blob/master/photo_image_synthesis_CRN/results/with_batchnorm.png">
+  <img src="https://github.com/rrwiyatn/deeplearning-ai/blob/master/photo_image_synthesis_CRN/results/comparison.png">
 </p>
