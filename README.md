@@ -1,5 +1,5 @@
 # deeplearning-ai
-Repo for various AI/deep learning projects that I've done
+Repo for various AI/deep learning projects that I've done. Feel free to contact me if you want to reproduce the results, I will be more than happy to share the datasets that I used with you!
 
 Projects include:
 1. Wasserstein GAN - [LINK](https://github.com/rrwiyatn/deeplearning-ai/tree/master/wasserstein_gan)
