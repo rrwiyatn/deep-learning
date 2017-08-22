@@ -12,5 +12,5 @@ These are some generated images (from the test set) when using tanh as the activ
 These are some generated images (from the test set) when using batchnorm and no activations in the last output layer:
 
 <p align="center">
-  <img src="https://github.com/rrwiyatn/deeplearning-ai/blob/master/photo_image_synthesis_CRN/results/without_batchnorm.png">
+  <img src="https://github.com/rrwiyatn/deeplearning-ai/blob/master/photo_image_synthesis_CRN/results/with_batchnorm.png">
 </p>
