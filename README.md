@@ -14,3 +14,4 @@ Projects include:
 10. Simple Face Recognition - [LINK](https://github.com/rrwiyatn/deeplearning-ai/tree/master/simple_face_recognition)
 11. Content Based Photo Sorting - [LINK](https://github.com/rrwiyatn/deeplearning-ai/tree/master/photo_content_sorting)
 12. MLP & RNN in NumPy - [LINK](https://github.com/rrwiyatn/deeplearning-ai/tree/master/neural_network)
+13. Image Segmentation with Cascaded Refinement Networks - [LINK](https://github.com/rrwiyatn/deeplearning-ai/tree/master/CRN_segmentation)
