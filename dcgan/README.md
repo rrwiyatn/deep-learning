@@ -6,3 +6,11 @@ Here is the generated MNIST:
 <p align="center">
   <img src="https://github.com/rrwiyatn/deeplearning-ai/blob/master/dcgan/results/mnist_shallow.png">
 </p>
+
+Discriminator and generator losses over 45,000 epochs:
+
+<p align="center">
+  <img src="https://github.com/rrwiyatn/deeplearning-ai/blob/master/dcgan/results/dcgan_losses.png">
+</p>
+
+
