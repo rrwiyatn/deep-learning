@@ -1,8 +1,6 @@
 # deeplearning-ai
 Repo for various AI/deep learning projects that I've done. Feel free to contact me if you want to reproduce the results, I will be more than happy to share the resources that I used (datasets,etc.).
 
-Note: TensorFlow and PyTorch implementations are coming soon.
-
 Projects include:
 1. Wasserstein GAN - [LINK](https://github.com/rrwiyatn/deeplearning-ai/tree/master/wasserstein_gan)
 2. Image Segmentation, The One Hundred Layers Tiramisu - [LINK](https://github.com/rrwiyatn/deeplearning-ai/tree/master/tiramisu_segmentation)
