@@ -8,3 +8,5 @@ Here is comparison between upscaling using GIMP cubic transformation and super r
 <p align="center">
   <img src="https://github.com/rrwiyatn/deeplearning-ai/blob/master/super_resolution/results/comparison.png">
 </p>
+
+Note: TensorFlow and PyTorch implementations are coming soon.

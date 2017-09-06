@@ -13,4 +13,6 @@ Discriminator and generator losses over 45,000 epochs:
   <img src="https://github.com/rrwiyatn/deeplearning-ai/blob/master/dcgan/results/dcgan_losses.png">
 </p>
 
+Note: TensorFlow and PyTorch implementations are coming soon.
+
 

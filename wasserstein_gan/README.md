@@ -12,3 +12,5 @@ Discriminator and generator losses over 60,000 epochs and 15,000 epochs, respect
 <p align="center">
   <img src="https://github.com/rrwiyatn/deeplearning-ai/blob/master/wasserstein_gan/results/wgan_losses.png">
 </p>
+
+Note: TensorFlow and PyTorch implementations are coming soon.

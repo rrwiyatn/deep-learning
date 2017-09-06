@@ -8,3 +8,5 @@ This is just a random experiment, but I keep the results here so I can go back t
 <p align="center">
   <img src="https://github.com/rrwiyatn/deeplearning-ai/blob/master/CRN_segmentation/images/results.png">
 </p>
+
+Note: TensorFlow and PyTorch implementations are coming soon.

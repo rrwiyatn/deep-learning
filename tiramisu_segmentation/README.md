@@ -13,3 +13,5 @@ I got 92.79% accuracy on the test set. Here is the results
 <p align="center">
   <img src="https://github.com/rrwiyatn/deeplearning-ai/blob/master/tiramisu_segmentation/images/results.png">
 </p>
+
+Note: TensorFlow and PyTorch implementations are coming soon.

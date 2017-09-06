@@ -8,3 +8,5 @@ These are some generated images (from the test set) when using tanh as the activ
 <p align="center">
   <img src="https://github.com/rrwiyatn/deeplearning-ai/blob/master/photo_image_synthesis_CRN/results/comparison.png">
 </p>
+
+Note: TensorFlow and PyTorch implementations are coming soon.
