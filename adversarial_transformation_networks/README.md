@@ -1,5 +1,5 @@
 # Adversarial Examples Generator Network
-I was working on this project but then I realized something similar was already submitted to arXiv (https://arxiv.org/abs/1703.09387).The only difference from the one proposed in the paper is that the network that I created does not try to minimally modify the classifier output and I also did not implement the reranking function (e.g. we want to make exceptions if the fake target and actual target are the same). This is essentially a generative model that generates adversarial examples to fool a trained neural network classifier.
+I was working on this project but then I realized something similar was already submitted to arXiv (https://arxiv.org/abs/1703.09387). The only difference from the one proposed in the paper is that the network that I created does not try to minimally modify the classifier output and I also did not implement the reranking function (e.g. we want to make exceptions if the fake target and actual target are the same). This is essentially a generative model that generates adversarial examples to fool a trained neural network classifier.
 
 <p align="center">
   <img src="https://github.com/rrwiyatn/deeplearning-ai/blob/master/adversarial_transformation_networks/diagrams/adversarial-examples-generator-network.jpg">
