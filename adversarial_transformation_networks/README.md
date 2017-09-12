@@ -13,7 +13,7 @@ Notebooks:
     Summary: Using Adversarial Examples Generator Network to attack simple classifier made of convolutional neural network that has 99.39% accuracy on MNIST test set. The generative network was able to fool the classifier to the point where the classifier accuracy went down to 9.84%, and majority of the predictions are predicted with high confidence.
 
     <p align="center">
-    <img src="https://github.com/rrwiyatn/deeplearing-ai/blob/master/adversarial_transformation_networks/images/notebook1.png">
+    <img src="https://github.com/rrwiyatn/deeplearning-ai/blob/master/adversarial_transformation_networks/images/notebook1.png">
     </p>
 
 2. Attacking Simple CNN CIFAR10 Classifier with Adversarial Examples Generator Network
