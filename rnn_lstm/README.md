@@ -1,0 +1,1 @@
+This directory contains simple RNN & LSTM applications for predicting next characters given previous ones and intended for educational purposes.
