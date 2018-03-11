@@ -14,6 +14,7 @@ Projects include:
 10. Dehaze - [LINK](https://github.com/rrwiyatn/deeplearning-ai/tree/master/dehaze)
 11. Simple Face Recognition - [LINK](https://github.com/rrwiyatn/deeplearning-ai/tree/master/simple_face_recognition)
 12. Content Based Photo Sorting - [LINK](https://github.com/rrwiyatn/deeplearning-ai/tree/master/photo_content_sorting)
-13. MLP & RNN in NumPy - [LINK](https://github.com/rrwiyatn/deeplearning-ai/tree/master/neural_network)
+13. Neural Net in NumPy - [LINK](https://github.com/rrwiyatn/deeplearning-ai/tree/master/neural_network)
 14. Image Segmentation with Cascaded Refinement Networks - [LINK](https://github.com/rrwiyatn/deeplearning-ai/tree/master/CRN_segmentation)
 15. Fast Gradient Sign Attack - [LINK](https://github.com/rrwiyatn/deeplearning-ai/tree/master/fast_gradient_sign_attack)
+16. Simple RNN + LSTM demo - [LINK](https://github.com/rrwiyatn/deeplearning-ai/tree/master/rnn_lstm)
